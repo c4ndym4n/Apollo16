@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f5a1228f3bd1627d9eebe14391db3e3119bfaad1">
+        <dex dex="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9d5d43a7d7a08195780f2193f1e93df550a087c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_db01e432d490ed4bc2ee57b3947a061430569ed7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_c81f03ae6eefae4564c9200bf257bf7729b49164.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_c81f03ae6eefae4564c9200bf257bf7729b49164/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_2bb83a6ed0d90822242632ce76bc4a74ba5add5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_db01e432d490ed4bc2ee57b3947a061430569ed7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="649abcf56c6106cc01ac362c1ea368f7295bae45">
+        <dex dex="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a1e182581575b5b86a6a15aa0eba3a997371f12f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_9c191e381944063525e658abe8a8705707438863/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sirolf2009/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_55cd13acfaf68df7898872811d77253e5be6cea4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_9c191e381944063525e658abe8a8705707438863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sirolf2009/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_55cd13acfaf68df7898872811d77253e5be6cea4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_d79e14ee952257525c8e8adeb2907ced1547ea33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_3503dee41ddda10b9b62c93384ce5fe3f209ecc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_d79e14ee952257525c8e8adeb2907ced1547ea33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_7f04c41961192fcc4172bfb37f63d9bb928614ee.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_2bb83a6ed0d90822242632ce76bc4a74ba5add5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_7f04c41961192fcc4172bfb37f63d9bb928614ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/sirolf2009/AndroidStudioProjects/Vibrator/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_3503dee41ddda10b9b62c93384ce5fe3f209ecc0.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vibrator</string>
+    <string name="title_activity_main">Vibrator</string>
+    <string name="title_activity_control">ActivityControl</string>
+</resources>
